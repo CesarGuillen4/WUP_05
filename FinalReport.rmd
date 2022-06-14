@@ -40,6 +40,14 @@ A new  preventative aides drug (triUmpsal) is under test in clinical trials. Con
 
 <!--Graphical results here.  Make sure to show your code.  Provide appropriate labels for axes, giving units if possible, and provide a good title for the graph, too.  Use the graphical results to describe the patterns if any that exist in the data as focused toward the research question. Bottom line is to explain the features of the graph that are relevant to conforming or departing to what is expected by your null hypothesis !-->
 
+```{r}
+barchartGC(~infected + treatment,data=females)
+barchartGC(~infected + treatment,data=females, type="percent")
+
+```
+
+As the chart tells us, almost 60 percent of females who took the drug that was supposed to prevent getting aids didn't work for them. And we see that those who took the placebo seems to have gotten less cases of aids. Which proves that this drug might not be effective for females and their protection of aids while using this drug. But we must realize that this is still a small population of females who got aids, and not the whole population. 
+
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
