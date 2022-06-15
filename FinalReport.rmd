@@ -63,7 +63,16 @@ Of the females who took the Aids treatment, almost 60 percent of those have gott
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
 
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
+
+The tests prove that their are differences between the placebo and the drug that was trying to fight off Aids with their differences between their p-values. The p-value for this possibility is 7.686e-05, which means that there is a 7 out of 10000 chance that taking the drug would not be effective to fight off aids. This experiment is proving to be working in reverse, where taking the placebo shows to be more effective than the actual treatment. What else could be said is that there is only a 7 out of 10000 chance that the drug would be shown to be better than taking the placebo. 
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+With all the information we are given with the charts and the tests that we ran, it revelas that this drug 
