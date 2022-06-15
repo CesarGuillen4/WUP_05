@@ -59,6 +59,7 @@ colPerc(table1)
 ```
 
 Of the females who took the Aids treatment, almost 60 percent of those have gotten Aids. Whereas those who took the placebo and have gotten Aids is only 40 percent. This table seems to prove that the drugs is not preventing aids, but is more likely to be inviting it in the body.
+
 ## Inferential Results
 
 <!--State hypothesis clearly.  Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc.  Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
@@ -75,4 +76,4 @@ The tests prove that their are differences between the placebo and the drug that
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-With all the information we are given with the charts and the tests that we ran, it revelas that this drug 
+With all the information we are given with the charts and the tests that we ran, it reveals that this drug is not going top be effective to fight off the Aids virus. As shown in the fisher tests there is only going to be a 7 out of 10000 chance that the  drug will be shown to be better than the placebo given to the other participants. That there is proof that this drug is not going to be effective and won't be given to the general public. What the graphs conclude to is that those in the blue are the females who have been given the drug are at a higher chance of getting Aids than those who have taken the placebo. There was a relationship between the drug and the disease, but not the desired one that would prove to be able to show that the drug is effective. If one were to take this drug is more likely to get the virus. 
